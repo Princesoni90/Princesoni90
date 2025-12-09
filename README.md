@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=55&pause=1000&color=4F46E5&center=true&vCenter=true&width=1000&height=120&lines=Prince+Soni;Full-Stack+Architect;Business+Strategist;Building+Digital+Ecosystems" alt="Typing SVG" />
+  <h1 align="center" style="font-size: 80px; color: blue margin-bottom: 0;">Prince Soni</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&weight=800&size=45&pause=1000&color=F75C7E;F77737;F6D365&center=true&vCenter=true&width=1000&height=70&lines=Architecting+Scalable+Solutions;Bridging+Code+and+Strategy;Full-Stack+Engineer" alt="Typing SVG" />
 </div>
-
 <div align="center">
   <a href="https://linkedin.com/in/prince-soni">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
