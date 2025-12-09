@@ -104,6 +104,7 @@
 ### 🛠️ Development Workflow
 
 <div align="center">
+  <br />
   <table>
     <tr>
       <td align="center" width="90">
