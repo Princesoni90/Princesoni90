@@ -1,78 +1,107 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Prince%20Soni&fontSize=90&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20MCA%20Scholar&descAlign=50&descAlignY=55" />
-</div>
-
-<div align="center">
-  <h3><i>"Merging Business Intelligence with Engineering Excellence."</i></h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:4f46e5&height=180&section=header&text=Prince%20Soni&fontSize=80&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Business%20Strategist&descAlign=50&descAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 <br />
 
-## 👨‍💻 About Me
-
-I am a **Software Engineer** and **MCA Scholar** with a unique background in **Digital Marketing**. This combination allows me to build applications that are not only technically robust but also optimized for user engagement and business growth.
-
-Currently, I lead full-stack development at **Lohchab Motor Company**, orchestrating digital ecosystems that manage millions in inventory assets.
-
-* 🎓 **Education:** Master of Computer Applications (MCA) - *Baba Masthnath University*
-* 💼 **Current Role:** Software Engineer @ Lohchab Motor Company
-* 🔭 **Focus:** Enterprise SaaS, Micro-Frontends, & Cloud Architecture (AWS/Azure)
-* 🌱 **Learning:** Advanced Machine Learning with TensorFlow & PyTorch
-
----
-
-## 🛠️ The Arsenal (Tech Stack)
-
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Frontend Architecture** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) ![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-blueviolet?style=flat-square) |
-| **Backend & API** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Success-green?style=flat-square) |
-| **Cross-Platform** | ![Electron](https://img.shields.io/badge/Electron-Desktop-47848F?style=flat-square&logo=electron) ![Capacitor](https://img.shields.io/badge/Capacitor-Mobile-1192d4?style=flat-square&logo=capacitor) |
-| **Data & ML** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) |
-
----
-
-## 🚀 Experience & Impact
-
-### **Software Engineer | Lohchab Motor Company** *(Sept 2024 - Present)*
-> *Lead Developer for the Lohchab Group Inventory Ecosystem.*
-
-* **Engineering:** Architected a unified "Super App" deployed across **Web (Next.js)**, **Desktop (Electron)**, and **Android (Capacitor)** from a single codebase.
-* **Security:** Implemented RBAC (Role-Based Access Control) and an OTP-based Digital Gate Pass system for asset security.
-* **Impact:** Replaced manual spreadsheets with a millisecond-latency search engine, managing the lifecycle of vehicle stock from OEM Invoice to Customer Delivery.
-
-### **Digital Marketing Executive | Tata Motors (Lohchab)** *(June 2021 - Present)*
-* Leveraged SEO and Google/Facebook Ads to drive measurable lead generation and brand awareness, giving me a deep understanding of the "Business" side of software.
-
----
-
-## 🏆 Featured Projects
-
-### 🚗 [Lohchab Inventory System](https://github.com/princesoni90/lohchab_stock_management)
-**Tech:** *Next.js 14, TypeScript, MySQL, Electron, Capacitor, Recharts*
-An enterprise-grade ERP solution handling complex vehicle allotment logic, financial tracking, and real-time analytics. Features a "Glassmorphism" dashboard and automated Excel import engines with conflict detection.
-
-### 💼 [Welcon Career](https://github.com/princesoni90/welconcareer)
-**Tech:** *HTML5, Tailwind CSS, Google Apps Script*
-A high-conversion recruitment platform featuring Apple-style "Dock" navigation, scroll-reveal animations, and serverless form handling via Google Scripts.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=princesoni90&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesoni90&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-</div>
-
----
-
 <div align="center">
   <a href="https://linkedin.com/in/prince-soni">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:princesoni3684@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" />
   </a>
+  <a href="https://inventory.lohchabgroup.com">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-10B981?style=for-the-badge&logo=google-chrome" />
+  </a>
+</div>
+
+<br />
+
+> **The "Hybrid" Developer:** I combine **Software Engineering** precision with **Digital Marketing** strategy. Currently leading full-stack architecture at **Lohchab Motor Company**, converting complex business logic into profitable, user-centric digital ecosystems.
+
+---
+
+### ⚡ The Engineering Arsenal
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎨 Frontend & UX</h3>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,html,css&theme=dark&perline=3" />
+      <br /><br />
+      <b>Specialty:</b> Micro-Frontends & <br />Glassmorphism UI
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend & Cloud</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,mysql,aws,docker,python,java&theme=dark&perline=3" />
+      <br /><br />
+      <b>Specialty:</b> Scalable APIs & <br />DevOps Pipelines
+    </td>
+    <td align="center" width="33%">
+      <h3>📱 Cross-Platform</h3>
+      <img src="https://skillicons.dev/icons?i=electron,android,linux,windows,git,vscode&theme=dark&perline=3" />
+      <br /><br />
+      <b>Specialty:</b> Unified Logic for <br />Web, Desktop & Mobile
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Signature "Ecosystem" Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Lohchab Inventory Suite</h3>
+      <p align="center">
+        <a href="https://github.com/princesoni90/lohchab_stock_management">
+          <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Electron%20%7C%20Capacitor-blue?style=flat-square" />
+        </a>
+      </p>
+      <p>A unified <b>"Super App"</b> ecosystem managing high-volume vehicle inventory across three platforms from a single codebase.</p>
+      <ul>
+        <li><b>Web:</b> Admin Dashboard with Recharts analytics.</li>
+        <li><b>Desktop:</b> Windows app for back-office operations.</li>
+        <li><b>Mobile:</b> Android app with OTP Gate Pass security.</li>
+      </ul>
+      <p><i><b>Tech:</b> RBAC Security, MySQL, Offline Sync.</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Welcon Career</h3>
+      <p align="center">
+        <a href="https://github.com/princesoni90/welconcareer">
+          <img src="https://img.shields.io/badge/Stack-Tailwind%20%7C%20Google%20Script-purple?style=flat-square" />
+        </a>
+      </p>
+      <p>A high-conversion recruitment platform designed with user psychology and modern aesthetics in mind.</p>
+      <ul>
+        <li><b>Design:</b> "Apple Dock" style navigation & Glassmorphism.</li>
+        <li><b>Performance:</b> Ultra-fast loading with scroll-reveal animations.</li>
+        <li><b>Backend:</b> Serverless form handling via Google Apps Script.</li>
+      </ul>
+      <p><i><b>Tech:</b> Lucide Icons, Responsive Grid, SEO Optimized.</i></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Performance Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=princesoni90&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="160" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesoni90&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="160" /></td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&text=&animation=fadeIn" width="100%" />
+  <p><i>"Architecting the future, one commit at a time."</i></p>
 </div>
