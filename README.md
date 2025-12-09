@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:4f46e5&height=180&section=header&text=Prince%20Soni&fontSize=80&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Business%20Strategist&descAlign=50&descAlignY=65" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=55&pause=1000&color=4F46E5&center=true&vCenter=true&width=1000&height=120&lines=Prince+Soni;Full-Stack+Architect;Business+Strategist;Building+Digital+Ecosystems" alt="Typing SVG" />
 </div>
-
-<br />
 
 <div align="center">
   <a href="https://linkedin.com/in/prince-soni">
@@ -28,6 +26,7 @@
     <i>Converting complex business logic into profitable, user-centric digital ecosystems.</i>
   </p>
 </div>
+
 <br />
 
 ---
@@ -36,23 +35,26 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="22%">
       <h3>🎨 Frontend & UX</h3>
       <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,html,css&theme=dark&perline=3" />
       <br /><br />
-      <b>Specialty:</b> Micro-Frontends & <br />Glassmorphism UI
+      <img src="https://img.shields.io/badge/Focus-Micro--Frontends-4F46E5?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Style-Glassmorphism-10B981?style=flat-square&logoColor=white" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="22%">
       <h3>⚙️ Backend & Cloud</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,mysql,aws,docker,python,java&theme=dark&perline=3" />
       <br /><br />
-      <b>Specialty:</b> Scalable APIs & <br />DevOps Pipelines
+      <img src="https://img.shields.io/badge/Focus-Scalable_APIs-4F46E5?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ops-DevOps_Pipelines-10B981?style=flat-square&logoColor=white" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="22%">
       <h3>📱 Cross-Platform</h3>
-      <img src="https://skillicons.dev/icons?i=electron,android,linux,windows,git,vscode&theme=dark&perline=3" />
+      <img src="https://skillicons.dev/icons?i=apple,git,windows,electron,react,linux&theme=dark&perline=3&v=final2025" />
       <br /><br />
-      <b>Specialty:</b> Unified Logic for <br />Web, Desktop & Mobile
+      <img src="https://img.shields.io/badge/Logic-Unified_Core-4F46E5?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Target-Web_%7C_Desktop_%7C_Mobile-10B981?style=flat-square&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -98,13 +100,31 @@
 
 ---
 
-### 📊 Performance Metrics
+### 🛠️ Development Workflow
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=princesoni90&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="160" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesoni90&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="160" /></td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+        <br /><b>Editor</b>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+        <br /><b>Design</b>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+        <br /><b>Version</b>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+        <br /><b>Testing</b>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" />
+        <br /><b>Deploy</b>
+      </td>
     </tr>
   </table>
 </div>
@@ -112,6 +132,6 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&text=&animation=fadeIn" width="100%" />
+  <br />
   <p><i>"Architecting the future, one commit at a time."</i></p>
 </div>
