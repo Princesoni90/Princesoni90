@@ -20,7 +20,7 @@
 <div align="center">
   <h3>⚡ Current Professional Role</h3>
   <a href="https://inventory.lohchabgroup.com">
-    <img src="https://img.shields.io/badge/Lead_Full--Stack_Architect-Lohchab_Motor_Company-4F46E5?style=flat&logo=unrealengine&logoColor=white&labelColor=1e293b" height="35" />
+    <img src="https://img.shields.io/badge/Lead_Full--Stack_Architect-Lohchab_Motor_Company(Lohchab Group)-4F46E5?style=flat&logo=unrealengine&logoColor=white&labelColor=1e293b" height="35" />
   </a>
   <br /><br />
   <p>
