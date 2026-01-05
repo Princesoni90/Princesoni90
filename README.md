@@ -1,3 +1,9 @@
+
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
+
+
 <div align="center">
   <h1 align="center" style="font-size: 80px; color: blue margin-bottom: 0;">Prince Soni</h1>
   
