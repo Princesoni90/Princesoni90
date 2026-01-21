@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Lexend&weight=800&size=45&pause=1000&color=F75C7E;F77737;F6D365&center=true&vCenter=true&width=1000&height=70&lines=Architecting+Scalable+Solutions;Bridging+Code+and+Strategy;Full-Stack+Engineer" alt="Typing SVG" />
 </div>
 <div align="center">
-  <a href="https://linkedin.com/in/prince-soni">
+  <a href="www.linkedin.com/in/prince-soni-a05027224">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:princesoni3684@gmail.com">
